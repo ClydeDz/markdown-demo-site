@@ -29,7 +29,7 @@ To use the Minimal theme:
 
 ### Configuration variables
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
+Minimal #1 will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
 title: [The title of your site]
